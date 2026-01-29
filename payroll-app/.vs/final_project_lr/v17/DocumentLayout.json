@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\modstandardmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\modstandardmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmsalary.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\frmsalary.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|c:\\users\\thele\\onedrive\\documents\\cincistate\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmhourly.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\frmhourly.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmsalary.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\frmsalary.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmhourly.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\frmhourly.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modStandardModule.vb",
+              "DocumentMoniker": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\modStandardModule.vb",
+              "RelativeDocumentMoniker": "final_project_lr\\modStandardModule.vb",
+              "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\modStandardModule.vb",
+              "RelativeToolTip": "final_project_lr\\modStandardModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-13T21:43:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSalary.vb",
+              "DocumentMoniker": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmSalary.vb",
+              "RelativeDocumentMoniker": "final_project_lr\\frmSalary.vb",
+              "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmSalary.vb",
+              "RelativeToolTip": "final_project_lr\\frmSalary.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-13T23:27:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSalary.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmSalary.vb",
+              "RelativeDocumentMoniker": "final_project_lr\\frmSalary.vb",
+              "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmSalary.vb [Design]",
+              "RelativeToolTip": "final_project_lr\\frmSalary.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-13T21:00:08.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHourly.vb",
+              "DocumentMoniker": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmHourly.vb",
+              "RelativeDocumentMoniker": "final_project_lr\\frmHourly.vb",
+              "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmHourly.vb",
+              "RelativeToolTip": "final_project_lr\\frmHourly.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwNcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-13T21:43:26.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmHourly.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmHourly.vb",
+              "RelativeDocumentMoniker": "final_project_lr\\frmHourly.vb",
+              "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\fall-2025\\programming-1\\projects\\week-15-14\\final_project_lr\\final_project_lr\\frmHourly.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\fall-2025\\programming-1\\projects\\week-15-14\\final_project_lr\\final_project_lr\\frmHourly.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-13T20:59:48.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.vb",
+              "DocumentMoniker": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmMain.vb",
+              "RelativeDocumentMoniker": "final_project_lr\\frmMain.vb",
+              "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmMain.vb",
+              "RelativeToolTip": "final_project_lr\\frmMain.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-13T21:00:18.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmMain.vb",
+              "RelativeDocumentMoniker": "final_project_lr\\frmMain.vb",
+              "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\fall-2025\\programming-1\\projects\\week-15-14\\final_project_lr\\final_project_lr\\frmMain.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\fall-2025\\programming-1\\projects\\week-15-14\\final_project_lr\\final_project_lr\\frmMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-13T20:47:35.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
