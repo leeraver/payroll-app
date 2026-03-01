@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\modstandardmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|c:\\users\\thele\\onedrive\\documents\\cincistate\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\modstandardmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\modstandardmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\frmsalary.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|c:\\users\\thele\\onedrive\\documents\\cincistate\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{EF15697B-FB48-4EFA-90B6-FAFAFDF94870}|final_project_lr\\final_project_lr.vbproj|solutionrelative:final_project_lr\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "final_project_lr\\modStandardModule.vb",
               "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\modStandardModule.vb",
               "RelativeToolTip": "final_project_lr\\modStandardModule.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-12-13T21:43:12.806Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "final_project_lr\\frmSalary.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-12-13T23:27:18.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T23:27:18.202Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "ToolTip": "C:\\Users\\thele\\OneDrive\\Documents\\CinciState\\spring-2026\\portfolio-review\\collection-of-work\\programming\\payroll-app\\payroll-app\\final_project_lr\\frmSalary.vb [Design]",
               "RelativeToolTip": "final_project_lr\\frmSalary.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-12-13T21:00:08.599Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-13T21:00:08.599Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "final_project_lr\\frmMain.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-12-13T21:00:18.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T21:00:18.719Z"
             },
             {
               "$type": "Document",
